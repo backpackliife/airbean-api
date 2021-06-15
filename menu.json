@@ -37,6 +37,263 @@
       "price": 39
     }
   ],
-  "accounts": [],
-  "orders": []
+  "accounts": [
+    {
+      "username": "sofie",
+      "password": "123",
+      "email": "sofkih@gmail.com"
+    },
+    {
+      "username": "karl",
+      "password": "123",
+      "email": "karl.kihlstrom@gmail.com"
+    },
+    {
+      "username": "123",
+      "password": "123",
+      "email": "123"
+    }
+  ],
+  "orders": [
+    {
+      "username": "sofie",
+      "items": [
+        {
+          "quantity": 2,
+          "total": 78,
+          "id": 1,
+          "title": "Bryggkaffe",
+          "desc": "Bryggd på månadens bönor.",
+          "price": 39
+        }
+      ],
+      "total": 78,
+      "eta": "2021-06-15T17:05:49.020Z",
+      "id": "d8c777c4-96eb-46aa-b760-3c451e65eba3"
+    },
+    {
+      "username": "sofie",
+      "items": [
+        {
+          "quantity": 2,
+          "total": 98,
+          "id": 2,
+          "title": "Caffè Doppio",
+          "desc": "Bryggd på månadens bönor.",
+          "price": 49
+        },
+        {
+          "quantity": 1,
+          "total": 49,
+          "id": 3,
+          "title": "Cappuccino",
+          "desc": "Bryggd på månadens bönor.",
+          "price": 49
+        }
+      ],
+      "total": 147,
+      "eta": "2021-06-15T17:09:49.024Z",
+      "id": "2a3c10ac-f179-4a64-92db-863275bac1f1"
+    },
+    {
+      "username": "sofie",
+      "items": [
+        {
+          "quantity": 2,
+          "total": 78,
+          "id": 1,
+          "title": "Bryggkaffe",
+          "desc": "Bryggd på månadens bönor.",
+          "price": 39
+        }
+      ],
+      "total": 78,
+      "eta": "2021-06-15T17:28:17.043Z",
+      "id": "eb2aee2b-9937-4da5-b128-75db60385e62"
+    },
+    {
+      "username": "sofie",
+      "items": [
+        {
+          "quantity": 2,
+          "total": 78,
+          "id": 1,
+          "title": "Bryggkaffe",
+          "desc": "Bryggd på månadens bönor.",
+          "price": 39
+        }
+      ],
+      "total": 78,
+      "eta": "2021-06-15T17:50:35.065Z",
+      "id": "88c853bf-2cc7-4573-a438-3a35022553b7"
+    },
+    {
+      "username": "sofie",
+      "items": [
+        {
+          "quantity": 2,
+          "total": 78,
+          "id": 1,
+          "title": "Bryggkaffe",
+          "desc": "Bryggd på månadens bönor.",
+          "price": 39
+        }
+      ],
+      "total": 78,
+      "eta": "2021-06-15T18:06:44.086Z",
+      "id": "94de2747-cf41-4015-a35c-850f0bf2dab8"
+    },
+    {
+      "username": "sofie",
+      "items": [
+        {
+          "quantity": 3,
+          "total": 147,
+          "id": 3,
+          "title": "Cappuccino",
+          "desc": "Bryggd på månadens bönor.",
+          "price": 49
+        }
+      ],
+      "total": 147,
+      "eta": "2021-06-15T18:11:03.347Z",
+      "id": "a9ca2aad-a8ef-4460-9968-3e84806c4b70"
+    },
+    {
+      "username": "sofie",
+      "items": [
+        {
+          "quantity": 2,
+          "total": 78,
+          "id": 1,
+          "title": "Bryggkaffe",
+          "desc": "Bryggd på månadens bönor.",
+          "price": 39
+        }
+      ],
+      "total": 78,
+      "eta": "2021-06-15T18:14:08.296Z",
+      "id": "d3b42440-da84-4a4a-8e47-3815f8826020"
+    },
+    {
+      "username": "karl",
+      "items": [
+        {
+          "quantity": 3,
+          "total": 117,
+          "id": 1,
+          "title": "Bryggkaffe",
+          "desc": "Bryggd på månadens bönor.",
+          "price": 39
+        },
+        {
+          "quantity": 4,
+          "total": 196,
+          "id": 2,
+          "title": "Caffè Doppio",
+          "desc": "Bryggd på månadens bönor.",
+          "price": 49
+        },
+        {
+          "quantity": 3,
+          "total": 147,
+          "id": 3,
+          "title": "Cappuccino",
+          "desc": "Bryggd på månadens bönor.",
+          "price": 49
+        }
+      ],
+      "total": 460,
+      "eta": "2021-06-15T18:16:35.534Z",
+      "id": "5855b961-3fc7-41e9-9f7f-fd22ef4f9dd9"
+    },
+    {
+      "username": "karl",
+      "items": [
+        {
+          "quantity": 1,
+          "total": 39,
+          "id": 6,
+          "title": "Cortado",
+          "desc": "Bryggd på månadens bönor.",
+          "price": 39
+        },
+        {
+          "quantity": 1,
+          "total": 54,
+          "id": 5,
+          "title": "Kaffe Latte",
+          "desc": "Bryggd på månadens bönor.",
+          "price": 54
+        }
+      ],
+      "total": 93,
+      "eta": "2021-06-15T18:16:50.768Z",
+      "id": "0c748c4a-690a-4bb2-8f03-039805ac7f4f"
+    },
+    {
+      "username": "karl",
+      "items": [
+        {
+          "quantity": 3,
+          "total": 117,
+          "id": 1,
+          "title": "Bryggkaffe",
+          "desc": "Bryggd på månadens bönor.",
+          "price": 39
+        }
+      ],
+      "total": 117,
+      "eta": "2021-06-15T18:17:14.337Z",
+      "id": "7e7cba5c-5ba3-4795-9844-c423e84b37aa"
+    },
+    {
+      "username": "karl",
+      "items": [
+        {
+          "quantity": 3,
+          "total": 117,
+          "id": 1,
+          "title": "Bryggkaffe",
+          "desc": "Bryggd på månadens bönor.",
+          "price": 39
+        }
+      ],
+      "total": 117,
+      "eta": "2021-06-15T18:17:25.371Z",
+      "id": "9c981aae-c479-48a5-8136-ac320e452d8d"
+    },
+    {
+      "username": "karl",
+      "items": [
+        {
+          "quantity": 3,
+          "total": 147,
+          "id": 4,
+          "title": "Latte Macchiato",
+          "desc": "Bryggd på månadens bönor.",
+          "price": 49
+        }
+      ],
+      "total": 147,
+      "eta": "2021-06-15T18:17:29.455Z",
+      "id": "dc4630f0-67b2-49b4-9ee5-9687ae9467d9"
+    },
+    {
+      "username": "123",
+      "items": [
+        {
+          "quantity": 2,
+          "total": 78,
+          "id": 1,
+          "title": "Bryggkaffe",
+          "desc": "Bryggd på månadens bönor.",
+          "price": 39
+        }
+      ],
+      "total": 78,
+      "eta": "2021-06-15T18:24:46.809Z",
+      "id": "dfd0b786-bd87-470e-b035-fd42ccb52fe9"
+    }
+  ]
 }

@@ -49,10 +49,12 @@ const express = require("express");
 const FileSync = require("lowdb/adapters/FileSync");
 const dbAdapter = new FileSync("menu.json");
 const db = lowdb(dbAdapter);
+const cors = require('cors');
 const { v4: uuidv4 } = require('uuid');
 const app = express();
 
 app.use(express.json());
+app.use(cors());
 
 function initiateDatabase() {
   db.defaults({ accounts: [], orders: [] }).write();
