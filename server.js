@@ -134,7 +134,7 @@ app.post("/api/order", (request, response) => {
 
     // Add 15 minutes to current time for ETA
     const eta = new Date();
-    eta.setMilliseconds(eta.getMinutes() + 15);
+    eta.setMinutes(eta.getMinutes() + 15);
 
     // Generate unique order id
     const id = uuidv4();
